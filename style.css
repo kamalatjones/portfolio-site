@@ -1,0 +1,32 @@
+h2 {font-size: x-large;
+color: blueviolet
+}
+
+
+.goals {text-decoration: underline;}
+.goals {text-decoration-color: rgb(255, 0, 106);}
+
+
+.arsenal {background-color: chartreuse;}
+
+    .opportunities {background-color: aquamarine;}
+    .opportunities {text-align: center;}
+
+    body {
+        background-color: papayawhip;
+    }
+  
+    
+
+
+    .industry {
+    border: 2px red;
+    padding: 30px;
+}
+
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    
+    }
